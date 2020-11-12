@@ -8,4 +8,4 @@
 
 
 http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg
-<img src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' width='680' height='902' alt='我最美' />
+<img src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' width='600' height='902' alt='我最美' />
