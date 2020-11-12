@@ -6,6 +6,15 @@
 
 也可以通过 https://pzloveyou.github.io/image_treasure-house/.... 后面接图片路径获取图片哦!
 
-https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg
+#### 例子:
 
-<img src='https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg' width='600' height='902' alt='我最美' />
+[gitee图片地址:http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg](http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg)
+
+[github图片地址:https://pzloveyou.github.io/image_treasure-house/IU/1273579581.jpeg](https://pzloveyou.github.io/image_treasure-house/IU/1273579581.jpeg)
+
+<table>
+ <tr>
+<td width=50%><img src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' title='我最美' width='600' height='50%' alt='我最美' /> </td>
+<td><img src='https://pzloveyou.github.io/image_treasure-house/IU/1273579581.jpeg' title='我最帅' width='500' height='35%' alt='我最帅' /></td>
+</tr>
+</table>
