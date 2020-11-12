@@ -9,5 +9,4 @@
 
 https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg
 
-![iu跑路了](https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg)
 <img src='https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg' width='600' height='902' alt='我最美' />
