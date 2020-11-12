@@ -15,7 +15,7 @@
 
 <table>
  <tr>
-<td width=50%><img src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' title='我最美' width='600' height='53%' alt='我最美' /> </td>
-<td><img src='https://pzloveyou.github.io/image_treasure-house/IU/1337613775.jpeg' title='我最帅' width='550' height='50%' alt='我最帅' /></td>
+<td width=50%><img style="object-fit: cover" src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' title='我最美' width='100%' alt='我最美' /> </td>
+<td><img style="object-fit: cover" src='https://pzloveyou.github.io/image_treasure-house/IU/1337613775.jpeg' title='我最帅' width='100%' alt='我最帅' /></td>
 </tr>
 </table>
