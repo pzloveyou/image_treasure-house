@@ -4,9 +4,9 @@
 个人喜好的图片宝库
 
 
-也可以通过 http://xiaozhidage.gitee.io/image_treasure-house/.... 后面接图片路径获取图片哦!
+也可以通过 https://pzloveyou.github.io/image_treasure-house/.... 后面接图片路径获取图片哦!
 
 
-http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg
+https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg
 
-<img src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' width='600' height='902' alt='我最美' />
+<img src='https://pzloveyou.github.io/image_treasure-house/IU/1345249383.jpeg' width='600' height='902' alt='我最美' />
