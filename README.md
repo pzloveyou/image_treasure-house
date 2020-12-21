@@ -7,7 +7,7 @@
 
 也可以通过 https://pzloveyou.github.io/image_treasure-house/.... 后面接图片路径引用图片哦!
 
-也可以通过 [http://xiaozhidage.gitee.io/image_treasure-house/](https://gitee.com/xiaozhidage/image_treasure-house/blob/master/README.md).... 后面接图片路径引用图片哦!
+或者通过 [http://xiaozhidage.gitee.io/image_treasure-house/](https://gitee.com/xiaozhidage/image_treasure-house/blob/master/README.md).... 后面接图片路径引用图片哦!
 
 
 #### 例子:
