@@ -18,12 +18,13 @@
 
 
 
-[github图片地址:https://image-treasure-house.vercel.app/IU/1337613775.jpeg](https://pzloveyou.github.io/image_treasure-house/IU/1273579581.jpeg)
+[github部署vercel图片地址:https://image-treasure-house.vercel.app/IU/1337613775.jpeg](https://pzloveyou.github.io/image_treasure-house/IU/1273579581.jpeg)
+[github配置jsdelivr图片地址:https://cdn.jsdelivr.net/pzloveyou/image_treasure-house/IU/1337613775.jpeg](https://cdn.jsdelivr.net/pzloveyou/image_treasure-house/IU/1337613775.jpeg)
 
 <table>
  <tr>
 <td width=50%><img style="object-fit: cover" src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' title='我最美' width='100%' alt='我最美' /> </td>
-<td><img style="object-fit: cover" src='https://image-treasure-house.vercel.app/IU/1337613775.jpeg' title='我最帅' width='100%' alt='我最帅' /></td>
+<td><img style="object-fit: cover" src='https://cdn.jsdelivr.net/pzloveyou/image_treasure-house/IU/1337613775.jpeg' title='我最帅' width='100%' alt='我最帅' /></td>
 </tr>
 </table>
 
