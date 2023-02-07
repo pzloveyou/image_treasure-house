@@ -6,7 +6,7 @@
 
 
 可以通过:
-1.https://image-treasure-house.vercel.app/
+1.https://image.loveiu.top/
 
 2.[http://xiaozhidage.gitee.io/image_treasure-house/](https://gitee.com/xiaozhidage/image_treasure-house/blob/master/README.md)
 
@@ -23,7 +23,7 @@
 
 
 
-[github部署vercel图片地址:https://image-treasure-house.vercel.app/IU/1337613775.jpeg](https://image-treasure-house.vercel.app/IU/1337613775.jpeg)
+[github部署vercel图片地址:https://image.loveiu.top/IU/1337613775.jpeg](https://image-treasure-house.vercel.app/IU/1337613775.jpeg)
 
 
 
@@ -31,8 +31,8 @@
 
 <table>
  <tr>
-<td width=50%><img style="object-fit: cover" src='http://xiaozhidage.gitee.io/image_treasure-house/IU/1345249383.jpeg' title='我最美' width='100%' alt='我最美' /> </td>
-<td><img style="object-fit: cover" src='https://image-treasure-house.vercel.app/IU/1337613775.jpeg' title='我最帅' width='100%' alt='我最帅' /></td>
+<td width=50%><img style="object-fit: cover" src='http://image.loveiu.top/IU/1345249383.jpeg' title='我最美' width='100%' alt='我最美' /> </td>
+<td><img style="object-fit: cover" src='https://image.loveiu.top/IU/1337613775.jpeg' title='我最帅' width='100%' alt='我最帅' /></td>
 </tr>
  <tr>
   <td colspan="2"><img style="object-fit: cover" src='https://cdn.jsdelivr.net/gh/pzloveyou/image_treasure-house/234.jpg' title='我最帅' width='100%' alt='我最帅' /></td>
